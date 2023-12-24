@@ -342,7 +342,7 @@
                 <div class="col-md-12 d-flex flex-xs-column">
                     <div class="col-md-6" data-aos="fade-down">
                         <div class="border_on">
-                            <img src="src/assets/img/photos/about-us.png" alt="sample" alt="pizza-restaurant" class="w-100">
+                            <img src="src/assets/img/photos/about-us.png" alt="pizza-restaurant" class="w-100">
                         </div>
                     </div>
                     <div class="col-md-6" data-aos="fade-up">
@@ -352,7 +352,7 @@
                             <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                 tempor
                                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</br></br>
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                 incididunt ut
                                 labore et dolore magna aliqua.</p>
