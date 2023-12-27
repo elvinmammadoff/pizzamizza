@@ -1962,6 +1962,11 @@ section.chef {
 .footer-social i {
     font-size: 23px;
     color: #333;
+    transition: all .3s ease-in-out;
+}
+
+.footer-social i:hover {
+    color: #ffd630;
 }
 
 .footer-nav {
@@ -1986,7 +1991,7 @@ section.chef {
 }
 
 .footer-nav a:hover {
-    color: #333;
+    color: #ffd630;
 }
 
 .footer-ttl {
@@ -2008,6 +2013,7 @@ section.chef {
 
 .footer-contact_item i {
     font-size: 22px;
+    color: #f22e3e;
 }
 
 .footer-contact_item i.icon-map-pin {
