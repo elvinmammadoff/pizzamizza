@@ -1040,7 +1040,7 @@ a:focus {
 }
 
 .menu_filter .item a.active span {
-    color: #000;
+    color: #ffd630;
 }
 
 #menu_items {
@@ -1371,6 +1371,10 @@ a:focus {
     display: none;
 }
 
+.btn-load-more {
+    margin-top: 30px !important;
+}
+
 .load-dots {
     display: none;
 }
@@ -1425,7 +1429,7 @@ section.chef {
     position: relative;
     padding-top: 85px;
     padding-bottom: 85px;
-    background-color: #000;
+    background-color: #2e2502;
     background-image: url('../img/chef-bg.png');
     background-repeat: no-repeat;
     background-position: top left;
