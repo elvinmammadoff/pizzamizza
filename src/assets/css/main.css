@@ -564,10 +564,11 @@ a:focus {
 /*----------------------------------------*/
 
 .carousel {
-    background: url('../img/slider_2.jpg') top center no-repeat;
+    background: url('../img/slider-bg.jpg') top center no-repeat;
     background-size: cover;
     position: relative;
-    min-height: 100vh;
+    min-height: calc(100vh - 105px);
+    padding-top: 105px;
 }
 
 .carousel:after {
@@ -633,7 +634,7 @@ a:focus {
 }
 
 .carousel-inner .carousel-item {
-    min-height: 100vh;
+    min-height: calc(100vh - 105px);
     background-position: center;
     background-size: cover;
     transition-duration: .3s;

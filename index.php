@@ -11,7 +11,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Butazzo Pizza - Restaurant, Cafe, Fast Food business HTML5 Responsive, CSS3 One Page Template</title>
+    <title>Pizza Mizza - Restaurant, Cafe, Fast Food business HTML5 Responsive One Page Template</title>
 
     <!-- Stylesheets -->
     <link href="src/assets/css/bootstrap.min.css" type="text/css" rel="stylesheet" media="all">
@@ -306,7 +306,7 @@
         <section class="section" id="special">
             <div class="container">
                 <div class="title-block">
-                    <span class="section-subtitle">Fresh from Butazzo</span>
+                    <span class="section-subtitle">Fresh from Pizza Mizza</span>
                     <h1 class="section-title">Popular Speciality</h1>
                 </div>
 
@@ -386,7 +386,7 @@
                     <div class="col-lg-6" data-aos="fade-up">
                         <div class="content">
                             <span class="section-subtitle">Delicious Restaurant</span>
-                            <h1 class="section-title title_sty2">The Butazzo Has Excellent Of Quality Foods</h1>
+                            <h1 class="section-title title_sty2">The Pizza Mizza Has Excellent Of Quality Foods</h1>
                             <p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                 tempor
                                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
@@ -404,7 +404,7 @@
         <section class="section" id="menus">
             <div class="container" data-aos="fade-up">
                 <div class="title-block">
-                    <span class="section-subtitle">Fresh from Butazzo</span>
+                    <span class="section-subtitle">Fresh from Pizza Mizza</span>
                     <h1 class="section-title">Our Menus</h1>
                 </div>
 
@@ -955,7 +955,7 @@
         <section class="section chef" id="chef">
             <div class="container" data-aos="fade-up">
                 <div class="title-block">
-                    <span class="section-subtitle">Meet Butazzo Experts</span>
+                    <span class="section-subtitle">Meet Pizza Mizza Experts</span>
                     <h1 class="section-title">Our Chef</h1>
                 </div>
                 <div id="chef-slider">
@@ -1097,7 +1097,7 @@
 
         <!--    Reservation    -->
         <section class="section" id="reservation">
-            <div class="container">
+            <div class="container" data-aos="fade-up">
                 <div class="title-block">
                     <span class="section-subtitle">Online Reservation</span>
                     <h1 class="section-title">Book A Table Now!</h1>
@@ -1121,7 +1121,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-lg-6" data-aos="fade-down">
+                    <div class="col-lg-6">
                         <div class="reserv_box">
                             <form id="reserv_form" method="post">
                                 <div class="row">
@@ -1174,10 +1174,10 @@
         </section>
 
         <!--    Gallery    -->
-        <section class="section" id="gallery" data-aos="fade-up">
-            <div class="container">
+        <section class="section" id="gallery">
+            <div class="container" data-aos="fade-up">
                 <div class="title-block">
-                    <span class="section-subtitle">Fresh from Butazzo</span>
+                    <span class="section-subtitle">Fresh from Pizza Mizza</span>
                     <h1 class="section-title">Image Gallery</h1>
                 </div>
                 <div id="photo_gallery" class="list1">

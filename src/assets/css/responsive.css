@@ -116,6 +116,12 @@
 }
  
 @media only screen and (max-width: 992px) {
+    .carousel {min-height: 100vh;}
+    .carousel-inner .carousel-item {min-height: 100vh;}
+    .item_img img { height: 240px; }
+    .item_details {align-items: center; padding: 20px 0;}
+    .item_name {text-align: center; margin-top: 10px;}
+    .carousel-indicators {width: 100%;}
     .navbar-nav>li>a { font-size: 18px; margin: 0 9px; }
     .right_menu_addr i { color: #333; margin-right: 10px; }
 	.right_menu_addr i.fa { color: #990100; }
